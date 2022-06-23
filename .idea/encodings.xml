@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Date/Date.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Date/Date.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Info/Info.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Info/Info.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Graduate.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Graduate.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/GraduateTeacher.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/GraduateTeacher.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Person.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Person.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Student.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Student.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Teacher.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/People/Teacher.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Surface/Surface.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Surface/Surface.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
